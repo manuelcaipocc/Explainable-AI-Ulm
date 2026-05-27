@@ -1,0 +1,2 @@
+size person, wiegh person, if analized independetly, is not good, single feature is insuficcient, sensivitivity , relevance reflects output variance change.
+
